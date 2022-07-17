@@ -1,0 +1,9 @@
+[user]
+	email = 108419419+maxxacb@users.noreply.github.com
+	name = Maxx Begole
+[credential]
+	helper = osxkeychain
+[core]
+	autocrlf = input
+[init]
+	defaultBranch = main
