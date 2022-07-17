@@ -26,7 +26,8 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 eval "$(zoxide init zsh)"
-alias ls="exa --icons -laFh"
+alias ls="exa --icons -laFh --git"
+alias exa="exa --icons -laFh --git"
 alias cd="z"
 alias cat="bat"
 
